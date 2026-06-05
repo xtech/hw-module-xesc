@@ -23,7 +23,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "D31","LED GREEN","LED_0805_2012Metric",76.0000,-32.9000,0.0000,top
 "D36","LED GREEN","LED_0805_2012Metric",69.0000,-111.5000,90.0000,top
 "J18","Conn_01x05","JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical",71.5000,-106.5000,90.0000,top
-"J22","Screw_Terminal_01x03","TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",67.5000,-31.7500,180.0000,top
+"J22","Screw_Terminal_01x03","TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal",67.5000,-33.0000,180.0000,top
 "J36","Conn_02x03_Odd_Even","PinHeader_2x03_P2.54mm_Vertical",48.3000,-32.7250,0.0000,top
 "J39","Screw_Terminal_01x02","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",49.6950,-93.9550,270.0000,top
 "J42","Conn_01x02","AMASS_XT30U-M_1x02_P5.0mm_Vertical",47.9000,-105.7500,0.0000,top
